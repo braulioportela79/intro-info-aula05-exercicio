@@ -1,0 +1,7 @@
+   git init - Inicialziar Repositorio Local
+   git status - Verificar Arquivos Preparados (Staged)
+   git add . - Adicionar Arquivos Preparados para serem comitados.
+   git commit -m "Primeiro Commit" - Comitar arquivos.
+   git clone https://github.com/username/repositorio.git - Clonar repositorio
+   git push origin main - Enviar arquivos para repositorio na branch Main
+
