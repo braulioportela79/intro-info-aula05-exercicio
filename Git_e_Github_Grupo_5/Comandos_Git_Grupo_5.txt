@@ -5,3 +5,41 @@
    git clone https://github.com/username/repositorio.git - Clonar repositorio
    git push origin main - Enviar arquivos para repositorio na branch Main
 
+  107  cd dh
+  108  mkdir cretingLocalRepo
+  109  rm cretingLocalRepo/
+  110  mv cretingLocalRepo/ creatingLocalRepo
+  111  cd creatingLocalRepo/
+  112  pwd
+  113  git init
+  114  touch app.js
+  115  ls
+  116  git add app.js
+  117  git status
+  118  git commit -m "adicionando o arquivo app.js"
+  119  touch app2.js
+  120  touch app3.js
+  121  git add .
+  122  git status
+  123  git commit -m "adicionando todos os arquivos"
+  124  cd ..
+  125  mkdir creatingFolder
+  126  cd creatingFolder
+  127  git init
+  128  touch app.js
+  129  git status
+  130  cd ..
+  131  creatingLocalRepo/
+  132  cd creatingLocalRepo/
+  133  git init
+  134  cd ctd
+  135  cd FRONT\ END/
+  136  cd AulaRevisaoEPratica/
+  137  git remote add origin https://github.com/arianefrancaqa/rep_Aula_06.git
+  138  git status
+  139  git branch -M main
+  140  git remote -v
+  141  git status
+  142  cd projetoRevisao/
+  143  git status
+  144  history
